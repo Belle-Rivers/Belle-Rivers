@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Engineer** graduated from Halic Universite as the top of my depratment. I like exploring diverse projects no matter how unconnected they seem to be. Artificial Intelligence (with all its sub categories), game development, web development, internet of things and data management are my all-time favourite topics to keep updated with. 
+I'm a passionate **Software Engineer** graduated from Halic University as the top of my depratment. I like exploring diverse projects no matter how unconnected they seem to be. Artificial Intelligence (with all its sub categories), game development, web development, internet of things, machine learning, and data management are my all-time favourite topics to keep updated with. 
 
 - 🌍 Languages: **Arabic (First Language), English, and Turkish**
 - 📫 How to reach me: **rwn@alshenieky.com**
