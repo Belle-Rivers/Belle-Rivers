@@ -21,4 +21,4 @@ I'm a passionate **Software Engineer** graduated from Halic University as the to
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/rawan-elshenieky-44b368207/)
+- **[LinkedIn]** (https://www.linkedin.com/in/rawan-elshenieky/)
